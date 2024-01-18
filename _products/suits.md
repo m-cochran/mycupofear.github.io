@@ -1,23 +1,19 @@
 ---
-name: Bespoke Suits (made to measure)
+name: Bespoke Suits(made to measure)
 description_markdown: >-
-  Can be customized according to customer needs, including the choice of fabric,
-  pattern modification, detail modification.
+  Can be customized according to customer needs, including the choice of fabric, pattern modification, detail modification.
 
   ![Product Image](http://www.dhresource.com/f2/albu/g15/M01/5B/A0/rBVa3mAc_LKAc8-sAACr5qvz0rw132.jpg)
 
-  [Mobile Link](http://m.dhgate.com/product/bespoke-suits-made-to-measure-/653204874.html)
-
-garment_type:
+availability: in stock
 price: '146.84'
-sku: 653204874
-stock: In Stock
+sku: '653204874'
+stock: 10
 sizes:
   - L
-styles: []
 google_product_category: 1594
-google_product_category_name: Apparel & Accessories > Clothing > Suits
-product_type: Apparel > Men's Clothing > Men's Suits & Blazers
+google_product_category_name: 'Apparel & Accessories > Clothing > Suits'
+product_type: 'Apparel > Men\'s Clothing > Men\'s Suits & Blazers'
 brand: DHgate
 identifier_exists: no
 condition: new
@@ -33,3 +29,4 @@ shipping:
   service: Standard
   price: '0.00'
 ---
+
