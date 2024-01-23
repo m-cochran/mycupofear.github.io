@@ -11,6 +11,9 @@ sku: 653204874
 stock: In Stock
 sizes:
   - L
+styles:
+  - name: Blue
+    color: '#39589e'
 image: /images/products/suits/black.jpg
 ---
 
