@@ -9,8 +9,6 @@ garment_type:
 price: '146.84'
 sku: 653204874
 stock: In Stock
-sizes:
-  - L
 styles:
   - name: Black
     color: '#000000'
