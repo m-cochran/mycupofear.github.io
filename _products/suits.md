@@ -12,8 +12,8 @@ stock: In Stock
 sizes:
   - L
 styles:
-  - name: Blue
-    color: '#39589e'
+  - name: black
+    color: '#000000'
 image: /images/products/suits/black.jpg
 ---
 
