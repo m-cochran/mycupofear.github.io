@@ -12,8 +12,8 @@ stock: In Stock
 sizes:
   - L
 styles:
-  - name: black
+  - name: Black
     color: '#000000'
-image: /images/products/suits/black.jpg
+    image: /images/products/suits/black.jpg
 ---
 
