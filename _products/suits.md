@@ -11,9 +11,6 @@ sku: 653204874
 stock: In Stock
 sizes:
   - L
-styles:
-  - name: Black
-    color: '#000000'
     image: /images/products/suits/black.jpg
 ---
 
