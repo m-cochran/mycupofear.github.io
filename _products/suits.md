@@ -12,6 +12,8 @@ stock: In Stock
 sizes:
   - L
 styles:
-    image: /images/products/tiger/black.jpg
+  - name: Black
+    color: '#000000'
+    image: /images/products/suits/black.jpg
 ---
 
