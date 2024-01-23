@@ -11,6 +11,7 @@ sku: 653204874
 stock: In Stock
 sizes:
   - L
-    image: /images/products/suits/black.jpg
+styles:
+    image: /images/products/tiger/black.jpg
 ---
 
