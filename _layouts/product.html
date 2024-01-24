@@ -9,6 +9,8 @@ layout: default
 				<div class="product-details" id="add">
 					<h3>{{ page.name }}</h3>
 					{{ page.description_markdown | markdownify }}
+
+					{{ page.more_info_markdown | markdownify }}
 					
 
 					<h4>${{ page.price }}</h4>
