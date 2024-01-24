@@ -4,6 +4,7 @@ garment_type: top
 price:
 sku:
 description:
+more info:
 sizes:
   - XS
   - Small
