@@ -16,6 +16,7 @@ sizes:
   - Medium
   - Large
   - XL
+LINK: <a href="https://www.kqzyfj.com/click-100820740-15168018?url=https%3A%2F%2Fwww.zinus.com%2Fproducts%2Fjayanna-steel-bifold-box-spring%3Fvariant%3D46822096072" target="_blank" style="display: inline-block; padding: 10px 20px; font-size: 16px; text-align: center; text-decoration: none; cursor: pointer; border: 1px solid #3498db; color: #3498db; background-color: #fff; border-radius: 5px; transition: background-color 0.3s;">Go to Product</a>
 styles:
   - name: Black
     color: '#000000'
