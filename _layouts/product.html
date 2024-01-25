@@ -8,6 +8,8 @@ layout: default
 				{% include product-styles.html product=page %}
 				<div class="product-details" id="add">
 					<h3>{{ page.name }}</h3>
+					{{ page.BRAND }}
+					{{ page.ID }}
 					{{ page.description_markdown | markdownify }}
 
 
@@ -17,6 +19,10 @@ layout: default
 					{{ page.CUSTOM_LABEL_0_markdown | markdownify }}
 					{{ page.PROMOTION_ID_markdown | markdownify }}
 					<h6>{{ page.LAST_UPDATED_markdown | markdownify }}</h6>
+					{{ page.AVAILABILITY }}
+					{{ page.COLOR }}
+					{{ page.CONDITION }}
+					{{ page.SIZE }}
 					<h4>${{ page.price }}</h4>
 					<h4>{{ page.LINK_markdown | markdownify }}</h4>
 					<div class="button">{% include snipcart-button.html product=page %}</div>
