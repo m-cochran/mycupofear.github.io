@@ -10,6 +10,8 @@ layout: default
 					<h3>{{ page.name }}</h3>
 					{{ page.description_markdown | markdownify }}
 
+
+					<h5>{{ page.LAST_UPDATED }}<h5>
 					<h4>${{ page.price }}</h4>
 					<h4>{{ page.LINK_markdown | markdownify }}</h4>
 					<div class="button">{% include snipcart-button.html product=page %}</div>
