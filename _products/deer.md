@@ -1,32 +1,25 @@
 ---
-name: Sacha the Deer
-description_markdown: >-
+ID: 1
+NAME: Sacha the Deer
+DESCRIPTION: >-
   Sacha's elegant antlers have never been seen on such a beautiful t-shirt. Wear
   this majestic beast and feel all your problems float away.
 
-
-
-  Slim Fit, 5oz 100% Cotton T-Shirt.
-garment_type:
-price: '9.00'
-sku: deer
-stock: 10
-sizes:
-  - Small
-  - Medium
-  - Large
-  - XL
-styles:
-  - name: Black
-    color: '#000000'
-    image: /images/products/deer/black.jpg
-  - name: Blue
-    color: '#39589e'
-    image: /images/products/deer/blue.jpg
-  - name: Clay
-    color: '#9c5145'
-    image: /images/products/deer/clay.jpg
-  - name: Cream
-    color: '#dfd3c2'
-    image: /images/products/deer/cream.jpg
+LINK: /products/deer
+IMAGE_LINK: /images/products/deer.jpg
+AVAILABILITY: In Stock
+PRICE: 9.00
+GOOGLE_PRODUCT_CATEGORY_NAME: Apparel & Accessories > Clothing > Shirts & Tops
+PRODUCT_TYPE: T-Shirt
+BRAND: YourBrand
+LAST_UPDATED: 2024-01-25
+GTIN: 1234567890123
+MPN: deer123
+IDENTIFIER_EXISTS: true
+CONDITION: New
+COLOR: Black
+SIZE: Medium
+ITEM_GROUP_ID: group1
+CUSTOM_LABEL_0: Label1
+PROMOTION_ID: promo1
 ---
