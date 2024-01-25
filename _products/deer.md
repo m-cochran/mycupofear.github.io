@@ -8,15 +8,15 @@ description_markdown: >-
 
   Slim Fit, 5oz 100% Cotton T-Shirt.
 garment_type:
-PRODUCT_TYPE: >-
+PRODUCT_TYPE_markdown: >-
   foundations
-GOOGLE_PRODUCT_CATEGORY_NAME: >-
+GOOGLE_PRODUCT_CATEGORY_NAME_markdown: >-
   Furniture > Beds & Accessories > Beds & Bed Frames
-ITEM_GROUP_ID: >-
+ITEM_GROUP_ID_markdown: >-
   10739094536
-CUSTOM_LABEL_0: >-
+CUSTOM_LABEL_0_markdown: >-
   
-PROMOTION_ID: >-
+PROMOTION_ID_markdown: >-
   
 LAST_UPDATED_markdown: >-
   2024-01-25T06:34:23.779-08:00
