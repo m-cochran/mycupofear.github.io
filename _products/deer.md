@@ -1,5 +1,7 @@
 ---
 name: Sacha the Deer
+BRAND: Zinus
+ID: 46822096072
 description_markdown: >-
   Sacha's elegant antlers have never been seen on such a beautiful t-shirt. Wear
   this majestic beast and feel all your problems float away.
@@ -20,6 +22,10 @@ PROMOTION_ID_markdown: >-
   
 LAST_UPDATED_markdown: >-
   2024-01-25T06:34:23.779-08:00
+AVAILABILITY: in stock
+COLOR:
+CONDITION: new
+SIZE: Twin
 price: '249.00 USD'
 sku: deer
 stock: 10
