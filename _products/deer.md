@@ -41,13 +41,4 @@ styles:
   - name: Black
     color: '#000000'
     image: /images/products/deer/10739094536_1_4__Jayanna_Metal_BiFold_Box_Spring.webp
-  - name: Blue
-    color: '#39589e'
-    image: /images/products/deer/blue.jpg
-  - name: Clay
-    color: '#9c5145'
-    image: /images/products/deer/clay.jpg
-  - name: Cream
-    color: '#dfd3c2'
-    image: /images/products/deer/cream.jpg
 ---
