@@ -17,6 +17,7 @@ price:
 sku:
 description:
 LINK:
+ads:
 styles:
   - name:
     color:
