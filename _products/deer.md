@@ -41,7 +41,7 @@ LINK_markdown: >-
 styles:
   - name: Black
     color: '#000000'
-    image: /images/products/deer/black.jpg
+    image: /images/products/deer/10739094536_1_4__Jayanna_Metal_BiFold_Box_Spring.webp
   - name: Blue
     color: '#39589e'
     image: /images/products/deer/blue.jpg
