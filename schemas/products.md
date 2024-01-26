@@ -22,5 +22,5 @@ styles:
   - name:
     color:
     image:
-More_info:
+more_info:
 ---
