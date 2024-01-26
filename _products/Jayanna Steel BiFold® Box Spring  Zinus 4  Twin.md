@@ -38,7 +38,7 @@ LINK_markdown: >-
 ads_markdown: >-
   <div style="text-align: center;">
   <script type="text/javascript" language="javascript" src="https://www.jdoqocy.com/placeholder-52269176?target=_top&mouseover=N"></script>
-</div>
+  </div>
 
 styles:
   - name: in stock
