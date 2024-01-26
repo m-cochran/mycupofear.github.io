@@ -1,10 +1,12 @@
 ---
-name: Sacha the Deer
+name: Jayanna Steel BiFold® Box Spring | Zinus 4" / Twin
 BRAND: Zinus
 ID: 46822096072
 description_markdown: >-
-  Sacha's elegant antlers have never been seen on such a beautiful t-shirt. Wear
-  this majestic beast and feel all your problems float away.
+  We’ve made the box spring more functional, more durable, and well, fun! Our Jayanna BiFold Box Spring® features a   
+  folding design that not only makes set-up insanely easy, but also maneuvers easily through tight hallways and 
+  corners. It features a durable steel structure, meaning this box spring will be with you for the long haul. Bed frame 
+  sold separately
 
 
 
