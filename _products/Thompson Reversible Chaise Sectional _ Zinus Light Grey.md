@@ -37,7 +37,7 @@ ads_markdown: >-
   <div style="text-align: center;"><script type="text/javascript" language="javascript" src="https://www.jdoqocy.com/placeholder-52269176?target=_top&mouseover=N"></script></div>
 more_info_markdown: >-
   Elevate Your Living Space with the Thompson Reversible Chaise Sectional by Zinus
-
+  <br>
   Introduction:
   Discover unparalleled comfort and timeless style with the Thompson Reversible Chaise Sectional by Zinus. This mid-century masterpiece seamlessly combines the 
   renowned Zinus comfort with a chic design, ensuring a perfect addition to your living space.
