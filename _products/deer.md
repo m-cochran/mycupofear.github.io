@@ -24,7 +24,7 @@ PROMOTION_ID_markdown: >-
 LAST_UPDATED_markdown: >-
   2024-01-25T06:34:23.779-08:00
 AVAILABILITY_markdown: >-
-  AVAILABILITY: <p style="color: #00ff00;">in stock</p>
+  AVAILABILITY: <span style="color: #00ff00;">in stock</span>
 COLOR:
 CONDITION_markdown: >-
   CONDITION: new
