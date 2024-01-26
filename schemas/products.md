@@ -22,4 +22,5 @@ styles:
   - name:
     color:
     image:
+More_info:
 ---
