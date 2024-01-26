@@ -38,14 +38,14 @@ ads_markdown: >-
 more_info_markdown: >-
   Elevate Your Living Space with the Thompson Reversible Chaise Sectional by Zinus
   <br>
-  Introduction:
-  Discover unparalleled comfort and timeless style with the Thompson Reversible Chaise Sectional by Zinus. This mid-century masterpiece seamlessly combines the 
-  renowned Zinus comfort with a chic design, ensuring a perfect addition to your living space.
-
+  <br>
+  <p>Discover unparalleled comfort and timeless style with the Thompson Reversible Chaise Sectional by Zinus. This mid-century masterpiece seamlessly combines the 
+  renowned Zinus comfort with a chic design, ensuring a perfect addition to your living space.</p>
+  <br>
   Features:
-
-  Exceptional Comfort: The Thompson Sectional is engineered with a perfect blend of green tea memory foam, Zinus Base foam, and fiber filling. Experience cloud-like 
-  comfort every time you lounge on this thoughtfully designed sectional.
+  <br>
+  <p>Exceptional Comfort: The Thompson Sectional is engineered with a perfect blend of green tea memory foam, Zinus Base foam, and fiber filling. Experience cloud-like 
+  comfort every time you lounge on this thoughtfully designed sectional.</p>
 
   Tool-Free Assembly: Say goodbye to complicated setups. The Thompson Sectional assembles effortlessly without the need for tools, making it a hassle-free addition to 
   your home.
