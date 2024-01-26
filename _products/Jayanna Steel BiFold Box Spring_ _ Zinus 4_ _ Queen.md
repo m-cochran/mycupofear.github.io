@@ -32,7 +32,7 @@ LINK_markdown: >-
 styles:
   - status: in stock
     color: '#00ff00'
-    image: /images/products/10739094536_1_4__Jayanna_Metal_BiFold_Box_Spring.jpg
+    image: /images/products/Jayanna Steel BiFold Box Spring® _ Zinus 4_ _ Queen/10739094536_1_4__Jayanna_Metal_BiFold_Box_Spring.jpg
 ads_markdown: >-
   
 
