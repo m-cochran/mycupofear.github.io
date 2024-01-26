@@ -24,12 +24,12 @@ PROMOTION_ID_markdown: >-
 LAST_UPDATED_markdown: >-
   2024-01-25T06:34:23.779-08:00
 AVAILABILITY: >-
-  in stock
+  AVAILABILITY: in stock
 COLOR:
 CONDITION_markdown: >-
-  new
+  CONDITION: new
 SIZE_markdown: >-
-  Twin
+  SIZE: Twin
 price: '249.00 USD'
 sku: deer
 stock: 10
