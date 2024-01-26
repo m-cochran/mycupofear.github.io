@@ -10,7 +10,6 @@ description_markdown: >-
 
 
 
-  Slim Fit, 5oz 100% Cotton T-Shirt.
 garment_type:
 PRODUCT_TYPE_markdown: >-
   foundations
