@@ -46,10 +46,10 @@ more_info_markdown: >-
   <br>
   <p>Exceptional Comfort: The Thompson Sectional is engineered with a perfect blend of green tea memory foam, Zinus Base foam, and fiber filling. Experience cloud-like 
   comfort every time you lounge on this thoughtfully designed sectional.</p>
-
-  Tool-Free Assembly: Say goodbye to complicated setups. The Thompson Sectional assembles effortlessly without the need for tools, making it a hassle-free addition to 
-  your home.
-
+  <p>
+  Tool-Free Assembly: Say goodbye to complicated setups. The Thompson Sectional assembles effortlessly without the need for tools, making it a hassle-free addition 
+  to your home.
+  </p>
   Customizable Layout: The reversible chaise feature allows you to tailor the sectional to fit your space like a glove. Arrange it to complement your room layout and 
   enhance the overall aesthetic of your living area.
 
