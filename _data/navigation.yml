@@ -10,3 +10,35 @@
   link: /contact/
   new_window: false
   highlight: false
+- name: Beds
+  link: /Beds/
+  new_window: false
+  highlight: false
+- name: Foundations
+  link: /Foundations/
+  new_window: false
+  highlight: false
+- name: Headboard
+  link: /Headboard/
+  new_window: false
+  highlight: false
+- name: Mattress
+  link: /Mattress/
+  new_window: false
+  highlight: false
+- name: Mattress-Protector
+  link: /Mattress-Protector/
+  new_window: false
+  highlight: false
+- name: Mattress-Topper
+  link: /Mattress-Topper/
+  new_window: false
+  highlight: false
+- name: Pet
+  link: /Pet/
+  new_window: false
+  highlight: false
+- name: Sofa
+  link: /Sofa/
+  new_window: false
+  highlight: false
