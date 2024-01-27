@@ -1,13 +1,5 @@
-- name: Products
+- name: All Products
   link: /
-  new_window: false
-  highlight: false
-- name: Our Story
-  link: /about/
-  new_window: false
-  highlight: false
-- name: Contact
-  link: /contact/
   new_window: false
   highlight: false
 - name: Beds
@@ -40,5 +32,13 @@
   highlight: false
 - name: Sofa
   link: /Sofa/
+  new_window: false
+  highlight: false
+- name: Our Story
+  link: /about/
+  new_window: false
+  highlight: false
+- name: Contact
+  link: /contact/
   new_window: false
   highlight: false
