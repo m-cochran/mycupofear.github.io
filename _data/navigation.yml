@@ -3,35 +3,35 @@
   new_window: false
   highlight: false
 - name: Beds
-  link: /Beds/
+  link: /beds/
   new_window: false
   highlight: false
 - name: Foundations
-  link: /Foundations/
+  link: /foundations/
   new_window: false
   highlight: false
 - name: Headboard
-  link: /Headboard/
+  link: /headboard/
   new_window: false
   highlight: false
 - name: Mattress
-  link: /Mattress/
+  link: /mattress/
   new_window: false
   highlight: false
 - name: Mattress-Protector
-  link: /Mattress-Protector/
+  link: /mattress-Protector/
   new_window: false
   highlight: false
 - name: Mattress-Topper
-  link: /Mattress-Topper/
+  link: /mattress-Topper/
   new_window: false
   highlight: false
 - name: Pet
-  link: /Pet/
+  link: /pet/
   new_window: false
   highlight: false
 - name: Sofa
-  link: /Sofa/
+  link: /sofa/
   new_window: false
   highlight: false
 - name: Our Story
