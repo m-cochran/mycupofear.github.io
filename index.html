@@ -17,8 +17,8 @@ subtitle: "The One-Stop Shop: Your Source for Everything You Need!"
 							<div class="product-description">
 								{{ product.description_markdown | truncate: 45 | markdownify }}
 							</div>
-							<p>${{ product.price }}</p>
-							<p>{{ product.PRODUCT_TYPE_markdown }}</p>
+							<p>${{ product.price }}</p> <p>{{ product.PRODUCT_TYPE_markdown }}</p>
+							
 						</div>
 					</li>
 				{% endfor %}
