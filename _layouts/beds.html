@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<div class="content">
+	<section class="page">
+		<div class="container">
+			<div class="product-container">
+				{% include product-styles.html beds=page %}
+				<div class="product-details" id="add">
+					<h3>{{ page.name }}</h3>
+					{{ page.BRAND }}
+					{{ page.ID }}
+					{{ page.description_markdown | markdownify }}
+
+
+					{{ page.PRODUCT_TYPE_markdown | markdownify }}
+					{{ page.GOOGLE_PRODUCT_CATEGORY_NAME_markdown | markdownify }}
+					{{ page.ITEM_GROUP_ID_markdown | markdownify }}
+					{{ page.CUSTOM_LABEL_0_markdown | markdownify }}
+					{{ page.PROMOTION_ID_markdown | markdownify }}
+					<h6>{{ page.LAST_UPDATED_markdown | markdownify }}</h6>
+					{{ page.AVAILABILITY_markdown | markdownify }}
+					{{ page.COLOR_markdown | markdownify }}
+					{{ page.CONDITION_markdown | markdownify }}
+					{{ page.SIZE_markdown | markdownify }}
+					<h4>${{ page.price }}</h4>
+					<h4>{{ page.LINK_markdown | markdownify }}</h4>
+					{{ page.ads_markdown | markdownify }}
+					{{ page.more_info_markdown | markdownify }}
+				</div>
+			</div>
+		</div>
+	</section>
+</div>
+
+<link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" rel="stylesheet" type="text/css" />
