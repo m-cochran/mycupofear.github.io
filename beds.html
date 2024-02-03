@@ -1,17 +1,9 @@
----
-title: Beds
-description: Beds
-email: fur@example.com
-hero: Beds
----
-
-
 <div class="content" id="beds">
 	<section>
 		<div class="container">
 			<p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_beds" class="btn"><strong>&#9998;</strong> Manage products</a></p>
 			<ul class="product-list">
-				{% for product in site.products %}
+				 {% for bed in site.beds %}
 					<li>
 						{% include product-styles.html beds=beds %}
 						<div class="product-details">
