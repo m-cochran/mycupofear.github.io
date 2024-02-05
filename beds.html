@@ -9,7 +9,7 @@ subtitle: "The One-Stop Shop: Your Source for Everything You Need!"
 		<div class="container">
 			<p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_beds" class="btn"><strong>&#9998;</strong> Manage products</a></p>
 			<ul class="product-list">
-				 {% for bed in site.beds %}
+				 {% for beds in site.beds %}
 					<li>
 						{% include product-styles.html beds=beds %}
 						<div class="product-details">
