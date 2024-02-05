@@ -3,7 +3,7 @@
   new_window: false
   highlight: false
 - name: Beds
-  link: /beds/
+  link: /beds
   new_window: false
   highlight: false
 - name: Foundations
