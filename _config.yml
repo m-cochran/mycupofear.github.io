@@ -44,6 +44,12 @@ defaults:
   -
     scope:
       path: ""
+      type: "beds"
+    values:
+      layout: "product"
+  -
+    scope:
+      path: ""
     values:
       layout: "page"
   -
