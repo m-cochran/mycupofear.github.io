@@ -12,7 +12,7 @@ subtitle: "The One-Stop Shop: Your Source for Everything You Need!"
 				 {% for beds in site.beds %}
 					<li>
 						{% include product-styles.html beds=beds %}
-						<div class="product-details">
+						<div class="beds-details">
 							<h4><a href="{{ beds.url }}">{{ beds.name }}</a></h4>
 							<div class="product-description">
 								{{ beds.description_markdown | truncate: 45 | markdownify }}
