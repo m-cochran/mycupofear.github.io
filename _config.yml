@@ -31,6 +31,8 @@ collections:
     output: false
   products:
     output: true
+  beds:
+    output: true
 
 permalink: pretty
 
@@ -39,12 +41,6 @@ defaults:
     scope:
       path: ""
       type: "products"
-    values:
-      layout: "product"
-  -
-    scope:
-      path: ""
-      type: "beds"
     values:
       layout: "product"
   -
