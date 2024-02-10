@@ -11,7 +11,7 @@ subtitle: "The One-Stop Shop: Your Source for Everything You Need!"
 			<ul class="product-list">
 				 {% for beds in site.beds %}
 					<li>
-						{% include product-styles.html beds=beds %}
+						{% include beds-styles.html beds=beds %}
 						<div class="product-details">
 							<h4><a href="{{ beds.url }}">{{ beds.name }}</a></h4>
 							<div class="beds-description">
