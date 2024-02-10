@@ -32,7 +32,7 @@ LINK_markdown: >-
 styles:
   - status: in stock
     color: '#00ff00'
-    image: /images/products/beds/Arnav Metal Platform Bed Frame _ Zinus Full _ Black/ZinusArnavModernStudio10InchPlatform2000MetalBedFrame-2.jpg
+    image: /images/beds/Arnav Metal Platform Bed Frame _ Zinus Full _ Black/ZinusArnavModernStudio10InchPlatform2000MetalBedFrame-2.jpg
 ads_markdown: >-
   <div style="text-align: center;"><script type="text/javascript" language="javascript" src="https://www.kqzyfj.com/placeholder-53972247?target=_top&mouseover=N"></script></div>
 
