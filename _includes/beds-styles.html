@@ -8,7 +8,7 @@
 	{% endfor %}
 
 	<div class="style-picker">
-		{% for style in include.product.styles %}
+		{% for style in include.beds.styles %}
 			<div style="background-color: {{ style.color }}" data-item-id="{{ forloop.index }}"></div>
 		{% endfor %}
 	</div>
